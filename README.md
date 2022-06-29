@@ -10,4 +10,4 @@ https://gfrieder1.github.io/CSS-Personal-Site/ \
 https://gfrieder1.github.io/HTML-Personal-Site/
 
 # Private Repo Websites:
-https://stark-bayou-84142.herokuapp.com/
+https://gfrieder1-newsletter.herokuapp.com/
